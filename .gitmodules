@@ -1,0 +1,3 @@
+[submodule "quickSort"]
+	path = quickSort
+	url = /Users/johncrimmins/Code/c++/algorithms/quickSort/
